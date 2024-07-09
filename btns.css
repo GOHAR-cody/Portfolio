@@ -1,0 +1,57 @@
+﻿.btn {
+    display: inline-block;
+    color: #fff;
+    letter-spacing: 0px;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 46px;
+    outline: none !important;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #99ff66 0%, #33cc33 100%),radial-gradient(circle at top left, #99ff66, #33cc33);
+    border: 2px solid transparent;
+    box-shadow: 5px 10px 10px black;
+    padding: 0 42px;
+}
+
+    .btn:hover {
+        color: black;
+        background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #4458dc, #854fee);
+        border: 2px solid #33cc33;
+        line-height: 46px;
+    }
+
+.btn2 {
+    background-image: linear-gradient(#ffffff, #ffffff), radial-gradient(circle at top left, #4458dc, #854fee);
+    border: 2px solid #33cc33;
+    color: black;
+    box-shadow: none;
+    display: inline-block;
+    letter-spacing: 0px;
+    font-family: "Rubik", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 46px;
+    outline: none !important;
+    text-align: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    border-radius: 5px;
+    border: 2px solid #33cc33;
+    box-shadow: 5px 10px 10px black;
+    padding: 0 42px;
+}
+
+    .btn2:hover {
+        background-image: linear-gradient(to right, #99ff66 0%, #33cc33 100%),radial-gradient(circle at top left, #99ff66, #33cc33);
+        color: #fff;
+    }
+.menu{
+    color:black;
+}
+    .menu:hover {
+        color: #33cc33;
+    }
